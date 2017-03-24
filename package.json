@@ -1,0 +1,23 @@
+{
+  "name": "alexa-skillz",
+  "version": "1.0.0",
+  "description": "We SHALL win the Hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehHackerz/alexa-skillz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehHackerz/alexa-skillz/issues"
+  },
+  "homepage": "https://github.com/tehHackerz/alexa-skillz#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}

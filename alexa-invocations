@@ -1,0 +1,6 @@
+devMountainCharacterIntent get {name}
+devMountainCharacterIntent tell me about {name}
+devMountainCharacterIntent who is {name}
+devMountainCharacterIntent what is {name} like
+devMountainCharacterIntent where is {name} from
+devMountainCharacterIntent does {name} have skills
